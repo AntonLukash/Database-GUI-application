@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2024-05-08",
+    "topic": "Introduction to Programming",
+    "number_of_students": 31
+  },
+  {
+    "date": "2024-05-10",
+    "topic": "Data Structures",
+    "number_of_students": 22
+  },
+  {
+    "date": "2024-06-12",
+    "topic": "Basic Java",
+    "number_of_students": 31
+  },
+  {
+    "course_name": "Computer Science",
+    "teacher_last_name": "Smith"
+  },
+  {
+    "course_name": "Mathematics",
+    "teacher_last_name": "Johnson"
+  },
+  {
+    "course_name": "Advanced Java",
+    "teacher_last_name": "Lev"
+  },
+  {
+    "course_name": "Basic java",
+    "teacher_last_name": "Lev"
+  }
+]
